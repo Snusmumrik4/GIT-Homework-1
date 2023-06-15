@@ -1,4 +1,5 @@
-# GIT-Homework-1JSON
+# GIT-Homework-1
+JSON
  1. Создать внешний репозиторий c названием JSON
 new repository
  2. Клонировать репозиторий JSON на локальный компьютер
